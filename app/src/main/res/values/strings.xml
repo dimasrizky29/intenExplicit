@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentExplicit</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="institution">Institution</string>
+    <string name="name">Name</string>
+    <string name="switch_with_data">Switch With Data</string>
+    <string name="switch_without_data">Switch Without Data</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+</resources>
